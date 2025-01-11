@@ -15,5 +15,10 @@ format:
     css: styles.css
     toc: true
 
+publish:
+  gh-pages:
+    branch: gh-pages
+    directory: docs
+
 
 
